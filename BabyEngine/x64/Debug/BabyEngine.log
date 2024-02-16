@@ -1,0 +1,5 @@
+﻿  GameManager.cpp
+C:\Users\tdrob\source\repos\BabyEngine\BabyEngine\GameManager.cpp(153,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Timer.cpp
+  Generating Code...
+  BabyEngine.vcxproj -> C:\Users\tdrob\source\repos\BabyEngine\x64\Debug\BabyEngine.exe
